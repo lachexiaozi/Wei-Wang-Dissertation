@@ -1,0 +1,15 @@
+﻿Filename,Cluster_ID,Point_Count,Centroid_X,Centroid_Y,Min_Distance,Detection_Score
+Dynamic Weight Experimental Data\S1_Clear\test1_layout1\LiDAR Data\LiDAR_Data_000001.npz,1,1,0.0,34.63920042725262,34.63920042725262,0.4
+Dynamic Weight Experimental Data\S1_Clear\test1_layout1\LiDAR Data\LiDAR_Data_000001.npz,2,2,3.7188192528108615,24.74078671598241,24.91981383993286,0.7
+Dynamic Weight Experimental Data\S1_Clear\test1_layout1\LiDAR Data\LiDAR_Data_000001.npz,3,4,3.765255597876343,18.93405356931417,19.183600616325908,0.9
+Dynamic Weight Experimental Data\S1_Clear\test1_layout1\LiDAR Data\LiDAR_Data_000001.npz,4,2,-4.1362010483411025,14.666103199831078,15.230356729851026,0.7
+Dynamic Weight Experimental Data\S1_Clear\test1_layout1\LiDAR Data\LiDAR_Data_000001.npz,5,3,-4.212963765565005,18.844597225681397,19.247396606455503,0.9
+Dynamic Weight Experimental Data\S1_Clear\test1_layout1\LiDAR Data\LiDAR_Data_000001.npz,6,1,-1.392765983843809,7.301134972838953,7.432790120631987,0.4
+Dynamic Weight Experimental Data\S1_Clear\test2_layout2\LiDAR Data\LiDAR_Data_000001.npz,1,1,0.0,24.639047837033647,24.639047837033647,0.4
+Dynamic Weight Experimental Data\S1_Clear\test2_layout2\LiDAR Data\LiDAR_Data_000001.npz,2,3,3.7732627606838154,14.695347073176457,15.108873121232929,0.9
+Dynamic Weight Experimental Data\S1_Clear\test2_layout2\LiDAR Data\LiDAR_Data_000001.npz,3,1,-4.374031359572602,34.624023432827784,34.899214160372324,0.4
+Dynamic Weight Experimental Data\S1_Clear\test2_layout2\LiDAR Data\LiDAR_Data_000001.npz,4,3,-1.5232732123287522,19.351681370062998,19.389944304570076,0.9
+Dynamic Weight Experimental Data\S1_Clear\test3_layout3\LiDAR Data\LiDAR_Data_000001.npz,1,3,-3.0479274073846874e-05,14.694587744967182,14.638895246814679,0.9
+Dynamic Weight Experimental Data\S1_Clear\test3_layout3\LiDAR Data\LiDAR_Data_000001.npz,2,1,3.8230774255447413,34.629002113302306,34.839398794537274,0.4
+Dynamic Weight Experimental Data\S1_Clear\test3_layout3\LiDAR Data\LiDAR_Data_000001.npz,3,1,-4.294862022301485,24.60844979611554,24.980425159683463,0.4
+Dynamic Weight Experimental Data\S1_Clear\test3_layout3\LiDAR Data\LiDAR_Data_000001.npz,4,1,-3.10084896791719,19.577989867965787,19.822031974346224,0.4

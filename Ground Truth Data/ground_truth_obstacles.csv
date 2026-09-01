@@ -1,0 +1,20 @@
+Layout_ID,Layout_Name,Ground_Truth_ID,Object_Type,Object_Name,Actor_ID,World_X_m,World_Y_m,World_Z_m,Yaw_deg,Scale_X,Scale_Y,Scale_Z,Configuration,Ego_X_m,Ego_Y_m,Ego_Z_m,Forward_Distance_m,Sensor_Lateral_Distance_m,Vertical_Offset_m,Ground_Truth_Range_m,Ground_Truth_Bearing_deg,In_Front,Target_For_Evaluation,Source_File
+1,Layout 1,L1_GT01,QCar,Qcar2,2,35.0,10.415,2.0,0.0,1.0,1.0,1.0,,20.0,6.2,2.0,15.0,-4.215,0.0,15.580957127,-15.69536301,True,True,obstacle_layout_1.py
+1,Layout 1,L1_GT02,QCar,Qcar3,3,45.0,2.415,2.0,0.0,1.0,1.0,1.0,,20.0,6.2,2.0,25.0,3.785,0.0,25.284901127,8.609198442,True,True,obstacle_layout_1.py
+1,Layout 1,L1_GT03,QCar,Qcar4,4,55.0,6.2,2.0,0.0,1.0,1.0,1.0,,20.0,6.2,2.0,35.0,0.0,0.0,35.0,0.0,True,True,obstacle_layout_1.py
+1,Layout 1,L1_GT04,Cube,Cube1,1,40.5,10.415,1.5,0.0,1.0,1.0,4.0,,20.0,6.2,2.0,20.5,-4.215,-0.5,20.928837163,-11.618649659,True,True,obstacle_layout_1.py
+1,Layout 1,L1_GT05,Cube,Cube2,2,40.5,2.415,1.5,0.0,1.0,1.0,4.0,,20.0,6.2,2.0,20.5,3.785,-0.5,20.846491911,10.460948627,True,True,obstacle_layout_1.py
+2,Layout 2,L2_GT01,QCar,Qcar2,2,35.0,2.415,2.0,0.0,1.0,1.0,1.0,,20.0,6.2,2.0,15.0,3.785,0.0,15.470172106,14.162000249,True,True,obstacle_layout_2.py
+2,Layout 2,L2_GT02,QCar,Qcar3,3,45.0,6.2,2.0,0.0,1.0,1.0,1.0,,20.0,6.2,2.0,25.0,0.0,0.0,25.0,0.0,True,True,obstacle_layout_2.py
+2,Layout 2,L2_GT03,QCar,Qcar4,4,55.0,10.415,2.0,0.0,1.0,1.0,1.0,,20.0,6.2,2.0,35.0,-4.215,0.0,35.252889598,-6.866978941,True,True,obstacle_layout_2.py
+2,Layout 2,L2_GT04,Cube,Cube1,0,30.0,2.415,1.5,0.0,1.0,1.0,2.0,,20.0,6.2,2.0,10.0,3.785,-0.5,10.692344224,20.731654305,True,True,obstacle_layout_2.py
+2,Layout 2,L2_GT05,Cube,Cube2,1,41.0,7.7,1.5,0.0,1.0,1.0,4.0,,20.0,6.2,2.0,21.0,-1.5,-0.5,21.053503271,-4.08561678,True,True,obstacle_layout_2.py
+2,Layout 2,L2_GT06,Cone,Cone1,,40.0,3.0,2.0,180.0,1.0,1.0,1.0,1,20.0,6.2,2.0,20.0,3.2,0.0,20.254382242,9.090276921,True,True,obstacle_layout_2.py
+2,Layout 2,L2_GT07,Cone,Cone2,,50.0,5.0,2.0,180.0,1.0,1.0,1.0,1,20.0,6.2,2.0,30.0,1.2,0.0,30.023990408,2.290610043,True,True,obstacle_layout_2.py
+3,Layout 3,L3_GT01,QCar,Qcar2,2,35.0,6.2,2.0,0.0,1.0,1.0,1.0,,20.0,6.2,2.0,15.0,0.0,0.0,15.0,0.0,True,True,obstacle_layout_3.py
+3,Layout 3,L3_GT02,QCar,Qcar3,3,45.0,10.415,2.0,0.0,1.0,1.0,1.0,,20.0,6.2,2.0,25.0,-4.215,0.0,25.352834654,-9.570066309,True,True,obstacle_layout_3.py
+3,Layout 3,L3_GT03,QCar,Qcar4,4,55.0,2.415,2.0,0.0,1.0,1.0,1.0,,20.0,6.2,2.0,35.0,3.785,0.0,35.204065461,6.17214306,True,True,obstacle_layout_3.py
+3,Layout 3,L3_GT04,Cube,Cube1,0,50.0,9.415,1.5,0.0,1.0,1.0,2.0,,20.0,6.2,2.0,30.0,-3.215,-0.5,30.171778618,-6.116852266,True,True,obstacle_layout_3.py
+3,Layout 3,L3_GT05,Cube,Cube2,1,40.0,6.2,1.5,0.0,1.0,1.0,4.0,,20.0,6.2,2.0,20.0,0.0,-0.5,20.0,0.0,True,True,obstacle_layout_3.py
+3,Layout 3,L3_GT06,Cone,Cone1,,33.788,7.2,2.0,180.0,1.0,1.0,1.0,1,20.0,6.2,2.0,13.788,-1.0,0.0,13.824215855,-4.148218312,True,True,obstacle_layout_3.py
+3,Layout 3,L3_GT07,Cone,Cone2,,50.0,2.415,2.0,180.0,1.0,1.0,1.0,1,20.0,6.2,2.0,30.0,3.785,0.0,30.237827716,7.190823561,True,True,obstacle_layout_3.py
