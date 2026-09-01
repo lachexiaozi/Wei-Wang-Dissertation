@@ -1,0 +1,28 @@
+{
+  "base_model": "yolo26s.pt",
+  "best_weights": "YOLO_Obstacle_Training\\yolo26s_obstacle_v1\\weights\\best.pt",
+  "dataset": "YOLO_Dataset",
+  "data_yaml": "YOLO_Dataset\\data.yaml",
+  "train_images": 34,
+  "val_images": 10,
+  "classes": {
+    "0": "Obstacle"
+  },
+  "epochs_requested": 50,
+  "actual_epochs_completed": 50,
+  "early_stopped": false,
+  "patience": 20,
+  "imgsz": 640,
+  "batch": 8,
+  "lr0": 0.001,
+  "mosaic": 0.5,
+  "mixup": 0.0,
+  "seed": 42,
+  "device": "cpu",
+  "validation_conf_threshold": 0.25,
+  "matching_iou_threshold": 0.5,
+  "ultralytics_precision": 0.9556933965867603,
+  "ultralytics_recall": 0.9152542372881356,
+  "mAP50": 0.9699878256558261,
+  "mAP50_95": 0.7755619515140995
+}

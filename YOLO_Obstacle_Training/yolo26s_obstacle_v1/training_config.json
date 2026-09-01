@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-08-16T06:52:39.363365+01:00",
+  "python_version": "3.12.13",
+  "pytorch_version": "2.13.0+cpu",
+  "ultralytics_version": "8.4.120",
+  "cuda_available": false,
+  "cuda_version": null,
+  "gpu_name": null,
+  "device": "cpu",
+  "base_model": "yolo26s.pt",
+  "dataset": "YOLO_Dataset",
+  "data_yaml": "YOLO_Dataset\\data.yaml",
+  "train_image_count": 34,
+  "validation_image_count": 10,
+  "class_names": {
+    "0": "Obstacle"
+  },
+  "training_parameters": {
+    "epochs": 50,
+    "patience": 20,
+    "imgsz": 640,
+    "batch": 8,
+    "lr0": 0.001,
+    "mosaic": 0.5,
+    "mixup": 0.0,
+    "workers": 0,
+    "seed": 42,
+    "deterministic": true,
+    "device": "cpu"
+  }
+}
