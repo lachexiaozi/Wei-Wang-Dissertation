@@ -1,0 +1,4 @@
+﻿Threshold,Total_Groups,Accepted_Groups,Rejected_Groups,Acceptance_Rate
+0.4,2086,1461,625,0.700384
+0.5,2086,1396,690,0.669223
+0.6,2086,1353,733,0.648610
